@@ -5,7 +5,15 @@
 
 ## 1) Sliding Window - OPTIMAL
 
+     We perform the normal sliding window to count all subsets in that window.
+     But, there might be a case where, we count same subsets more than once.
      
+     For (e.g) 
+     10 13
+     1 2 2 3 2 1 1 3 1 1
+     
+     For this test case, the answer is 10(individual elements) + 6(0-3) + 9(2-6) + 12(4-9) = 37
+     If we do not subtract the duplicates, we get 10 + 6 + 10(2-3) + 15(4-6).
   
         
    ### Code : (.cpp)  

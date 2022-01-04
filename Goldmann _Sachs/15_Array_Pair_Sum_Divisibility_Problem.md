@@ -1,6 +1,6 @@
 # Problem
 
-## [15_Array Pair Sum Divisibility Problem ](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1#)
+## [15. Array Pair Sum Divisibility Problem ](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1#)
 
 
 # Solution 

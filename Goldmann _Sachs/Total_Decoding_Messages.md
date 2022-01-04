@@ -1,6 +1,6 @@
 # Problem
 
-## [Total Decoding Messages](https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/)
+## [8. Total Decoding Messages](https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/)
 
 
 # Solution 
